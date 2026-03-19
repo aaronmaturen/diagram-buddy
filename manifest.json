@@ -9,6 +9,5 @@
   "networkAccess": {
     "allowedDomains": ["none"]
   },
-  "build": "node esbuild.config.mjs",
-  "icon": "icon.png"
+  "build": "node esbuild.config.mjs"
 }

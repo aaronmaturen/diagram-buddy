@@ -1,0 +1,14 @@
+{
+  "name": "Diagram Buddy",
+  "id": "figma-mermaid-plugin",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figjam"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "build": "node esbuild.config.mjs",
+  "icon": "icon.png"
+}

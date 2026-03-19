@@ -1,6 +1,6 @@
 {
   "name": "Diagram Buddy",
-  "id": "figma-mermaid-plugin",
+  "id": "1616430653278690050",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",

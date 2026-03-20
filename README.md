@@ -1,4 +1,4 @@
-# Figma Mermaid
+# Diagram Buddy
 
 A FigJam plugin that converts [Mermaid](https://mermaid.js.org/) flowchart syntax into native FigJam shapes and connectors.
 

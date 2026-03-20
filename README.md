@@ -6,7 +6,7 @@ A FigJam plugin that converts [Mermaid](https://mermaid.js.org/) flowchart synta
 
 Paste Mermaid flowchart syntax into the plugin and it generates an editable FigJam diagram — real shapes, real connectors, real text — not a flat image.
 
-```mermaid
+```markdown
 flowchart TD
     A[Start] --> B{Valid?}
     B -->|Yes| C[Process]
